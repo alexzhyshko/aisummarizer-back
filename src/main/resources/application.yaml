@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: aisummarizer-back
+    datasource:
+        url: jdbc:postgresql://localhost:5433/aisummarizer
+        username: postgre
+        password: postgre
+
